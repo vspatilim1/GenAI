@@ -117,9 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/cricketgpt](https://github.com/yourusername/cricketgpt)
+Your Name - https://www.linkedin.com/in/vipulpatil2025
 
 ## 🔮 Future Enhancements
 
